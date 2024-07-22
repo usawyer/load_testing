@@ -1,10 +1,11 @@
 package main
 
 import (
+	"log"
+
 	"github.com/usawyer/load_testing/configs"
 	"github.com/usawyer/load_testing/internal/app"
 	"github.com/usawyer/load_testing/pkg/logger"
-	"log"
 )
 
 func main() {

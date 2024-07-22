@@ -2,6 +2,7 @@ package configs
 
 import (
 	"fmt"
+
 	"github.com/ilyakaznacheev/cleanenv"
 )
 
