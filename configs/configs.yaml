@@ -1,0 +1,7 @@
+http:
+  start_page: "http://193.168.227.93/start"
+  max_rpc: 3
+  threads_num: 1
+
+logger:
+  level: "info"
